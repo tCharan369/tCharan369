@@ -25,17 +25,20 @@ Currently focusing on:
 
 ---
 
-## 🔥 Featured Projects  
+## 🔥 Featured Projects   
 
-### 📱 Campus Wallet (In Progress 🚧)  
-A **digital wallet platform for campuses** with a *PayLater* feature.  
-- Built with **MERN stack**  
-- Secure authentication & transaction handling  
-- Designed for students and campus vendors  
+### 🤖 TalentAI – AI Powered Campus Placement Platform (In Progress 🚧)  
+An intelligent **campus recruitment platform** that leverages AI to match students with job roles.  
+- 📄 Resume upload and parsing system  
+- 🧠 Semantic job matching using **embeddings (NLP-based similarity)**  
+- ⚡ Computes match scores between resumes and job descriptions  
+- 🗄️ Backend designed for structured resume data storage and efficient retrieval  
+- 🛠️ Built with **Next.js, Prisma, PostgreSQL, Python (NLP)**  
+
+---
 
 ### 📚 Online Course Learning Platform  
 A platform to host & enroll in courses with video lessons and progress tracking.  
-
 ---
 
 ## 🛠️ Tech Stack  
